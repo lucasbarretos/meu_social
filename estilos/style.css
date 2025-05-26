@@ -16,10 +16,10 @@ section#telefone{
 iframe#tela{
     position: relative;
     top: 80px;
-    left: 14px;
-    right: 200px;
-    height: 486px;
-    width: 289px;
+    left: 23px;
+    right: 205px;
+    height: 471px;
+    width: 302px;
 }
 iframe#tela::-webkit-scrollbar{
     margin: 0px;
@@ -34,6 +34,7 @@ section#tela{
     border-radius: 50%;
 }
 #redes-sociais img:hover{
+    box-sizing: border-box;
     border: 2px solid rgba(255, 255, 255, 0.637);
     transform: translate(-3px,-3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0,0.623);

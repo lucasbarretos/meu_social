@@ -1,0 +1,13 @@
+    @charset "utf-8";
+    
+    body{
+            background-size: cover;
+            margin:0 ;
+        }
+        img{
+            width: 90vw;
+        }
+        ::-webkit-scrollbar{
+            margin: 0;
+            padding: 0;
+        }
